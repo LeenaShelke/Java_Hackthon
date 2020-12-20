@@ -1,0 +1,10 @@
+write
+save
+lesser
+greater
+minimum
+max
+delete
+save
+hello
+hi
