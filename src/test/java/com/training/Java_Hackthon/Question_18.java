@@ -12,7 +12,7 @@ public class Question_18 {
 		char string[] = str.toCharArray();  
         int count;
         System.out.println("Duplicate characters in a given string: ");  
-        //Counts each character present in the string  
+        //Counts each character presen t in the string  
         for(int i = 0; i <string.length; i++) {  
             count = 1;  
             for(int j = i+1; j <string.length; j++) {  

@@ -20,7 +20,7 @@ public class Question_17 {
         for (int i = 0; i < totalChar; i++) {  
             char ch = str.charAt(i);  
             if (Character.isUpperCase(ch)) {  
-                upperCase++;  
+                upperCase++;   
             }  
             else if (Character.isLowerCase(ch)) {  
                 lowerCase++;  

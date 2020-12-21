@@ -44,7 +44,7 @@ public class Question_6 {
 		
 		System.out.print("Array before Selection sort: ");
 		for(int i : Arr)
-			{
+			{ 
 			System.out.print(i+" ");
 			}
 		 Selectionsort(Arr);
